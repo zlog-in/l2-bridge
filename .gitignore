@@ -1,0 +1,20 @@
+
+.DS_Store
+
+
+# Project specific
+deployments
+optimism
+
+# environment variables
+.env
+.env.local
+*.delme
+
+# Packages
+node_modules/
+
+# Hardhat build outputs
+artifacts/
+cache/
+build
